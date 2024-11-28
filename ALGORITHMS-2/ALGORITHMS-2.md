@@ -1,10 +1,24 @@
-﻿**Coffee corners optimization at IE University![](Aspose.Words.dcf4bc53-4a58-4940-b981-88d09d9c7d8e.001.png)**
+**Coffee corners optimization at IE University!**
 
 **TABLE OF CONTENTS:**
+1. [Project Description](#project-description)
+2. [Key Features](#key-features)
+3. [Technologies Used](#technologies-used)
+4. [How It Works](#how-it-works)
+5. [Challenges and Learnings](#challenges-and-learnings)
+    1. [Challenges](#challenges)
+    2. [Future Enhancements](#future-enhancements)
+    3. [Why This Solution?](#why-this-solution)
+6. [Installation](#installation)
+    1. [Windows](#windows)
+    2. [macOS](#macos)
+    3. [Linux (Ubuntu/Debian)](#linux-ubuntudebian)
+7. [Usage](#usage)
+8. [Credits](#credits)
 
-[Project Description...................................................................................................................2 ](#_page1_x72.00_y102.41)[Key Features......................................................................................................................2 ](#_page1_x72.00_y245.23)[Technologies Used.............................................................................................................2 ](#_page1_x72.00_y420.09)[How It Works......................................................................................................................2 ](#_page1_x72.00_y563.21)[Challenges and Learnings....................................................................................................... 3 ](#_page2_x72.00_y103.74)[Challenges......................................................................................................................... 3 ](#_page2_x72.00_y119.61)[Future Enhancements........................................................................................................3 ](#_page2_x72.00_y183.26)[Why This Solution?............................................................................................................ 3 ](#_page2_x72.00_y262.85)[Installation................................................................................................................................3 ](#_page2_x72.00_y358.06)[Windows:............................................................................................................................3 ](#_page2_x72.00_y399.93)[macOS:.............................................................................................................................. 3 ](#_page2_x72.00_y622.35)[Linux (Ubuntu/Debian):...................................................................................................... 4 ](#_page3_x72.00_y179.21)[Usage.......................................................................................................................................5 ](#_page4_x72.00_y147.47)[Credits......................................................................................................................................8](#_page7_x72.00_y374.62)
+---
 
-<a name="_page1_x72.00_y102.41"></a>**Project Description**
+**Project Description**
 
 The challenge of buying coffee and snacks during the little 10-minute breaks between courses is a problem that many IE University students have, and the Uni Coffee Order App was created to solve this problem. During these brief periods, long lineups and time limits cause delays, discontent, and lost chances to refuel.
 
